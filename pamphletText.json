@@ -1,8 +1,9 @@
 [
   {
-    "image": "https://www.beytoote.com/images/stories/fun/sky-profile-picture-2.jpg",
+    "id": "bio",
     "title": "جزوه زیست فصل 1",
     "link": "https://example.com/files/bio1.pdf"
+    "image":"https://www.beytoote.com/images/stories/fun/sky-profile-picture-2.jpg"
   },
   {
     "id": "math2",
