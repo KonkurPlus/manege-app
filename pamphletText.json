@@ -1,8 +1,12 @@
 [
   {
-    "id": "bio",
-    "title": "جزوه زیست فصل 1",
-    "link": "https://example.com/files/bio1.pdf"
-    "image":"https://www.beytoote.com/images/stories/fun/sky-profile-picture-2.jpg"
+    "title": "جزوه فصل 1",
+    "link": "https://example.com/pamphlet1.pdf",
+    "image": "https://dl.farzandepak.com/wp-content/uploads//5ab089f1546065beb043dcef0dcc415e.jpg"
+  },
+  {
+    "title": "جزوه فصل 2",
+    "link": "https://example.com/pamphlet2.pdf",
+    "image": "https://example.com/image2.jpg"
   }
 ]
